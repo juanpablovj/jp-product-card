@@ -1,8 +1,8 @@
-#JP-Product-Card
+# JP-Product-Card
 
 Este es un paquete de pruebas de despliegue en NPM
 
-##Ejemplo
+## Ejemplo
 ```
 import {ProductCard, ProductImage, ProductTitle, ProductButtons} from 'jp-product-card';
 ```
