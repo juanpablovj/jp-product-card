@@ -62,7 +62,7 @@
 }
 
 .disabled {
-    border-color: grey !important;
+    border-color: #333 !important;
     border-left: 1px solid white !important;
-    color: gray !important;
+    color: #333 !important;
 }
